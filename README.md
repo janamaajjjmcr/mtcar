@@ -68,5 +68,5 @@ The visualization confirms expected engineering patterns and highlights how **cy
 ## 4-	Plot the values of the columns mpg and qsec into an x&y graph.
 ## 5-	Plot painted values of “cyl” on the same graph. 
 
-![image](https://github.com/user-attachments/assets/dcf21696-322f-4f55-b640-c8f5fddcb496)
+![image](https://github.com/user-attachments/assets/27a07923-67a9-45ba-9ea8-d2b4702646b0)
 
